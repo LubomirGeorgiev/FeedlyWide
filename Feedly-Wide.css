@@ -1,0 +1,54 @@
+#mainBar {
+  width: 95% !important;
+}
+
+#feedlyPart {
+  width: 81% !important;
+  padding-right: 0 !important;
+}
+
+#feedlyPage {
+  width: 95% !important;
+}
+
+#sideArea {
+  margin-right: 0 !important;
+}
+
+#recommentationAreaHeadlines > div {
+  width: 31% !important;
+}
+
+.topRecommendedEntry .visual {
+  width: 100% !important;
+  height: 200px !important;
+}
+
+.topRecommendedEntry {
+  width: 98% !important;
+}
+
+.topRecommendedEntry .title {
+  font-size: 18px !important;
+  line-height: 25px !important;
+}
+
+.u4Entry {
+  max-width: 100% !important;
+  margin-bottom: 45px !important;
+}
+
+.u4Entry .title {
+  font-size: 20px !important;
+}
+
+.u4Entry .summary {
+  font-size: 14px !important;
+  line-height: 18px !important;
+  max-height: 100% !important;
+  margin-top: 5px !important;
+}
+
+#sideArea {
+  float: left !important;
+}
