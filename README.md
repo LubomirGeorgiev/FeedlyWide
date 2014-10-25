@@ -9,6 +9,7 @@ A userstyle for [feedly.com](http://feedly.com/) which makes it more vivid and r
 ![Without Feedly Wide](images/without.jpg)
 
 ##How to install
+**[READ THIS](https://userstyles.org/help/stylish)**
  - On Chrome -  https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en
  - On Mozilla Firefox - https://addons.mozilla.org/en-US/firefox/addon/stylish/
  
