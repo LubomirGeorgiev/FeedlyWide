@@ -40,6 +40,7 @@
 
 .u4Entry .title {
   font-size: 20px !important;
+  line-height: 25px !important;
 }
 
 .u4Entry .summary {
@@ -47,6 +48,10 @@
   line-height: 18px !important;
   max-height: 100% !important;
   margin-top: 5px !important;
+}
+
+.u4Entry .visual {
+ border-radius: 5px !important;
 }
 
 #sideArea {
